@@ -7,6 +7,11 @@ Aquí se detalla minuciosamente el modelado de las entidades solicitadas:
 
 ![Diagrama de Clases](diagramaguiaherencia.png)
 
+## Diagrama de Clases UML (Visual Paradigm)
+Diseño minucioso generado mediante ingeniería inversa, donde se aprecia la clase abstracta *Persona* (en cursiva) y la jerarquía de herencia:
+
+![Diagrama de Clases](diagramavp.png)
+
 ## 🚀 2. Prueba de Ejecución Exitosa
 Captura de pantalla de la consola de IntelliJ IDEA demostrando que el programa compila, se ejecuta sin errores y aplica correctamente el polimorfismo dinámico:
 
